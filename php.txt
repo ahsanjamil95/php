@@ -1,0 +1,3 @@
+How To remove Html Tag From PHP Strings
+
+strip_tags(html_entity_decode(  Write Code With HTML Tag   ))
